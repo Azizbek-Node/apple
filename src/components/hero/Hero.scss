@@ -1,0 +1,63 @@
+.hero{
+    text-align: center;
+    height: 692px;
+    padding-top: 50px;
+    margin-bottom: 30px;
+}
+
+.hero h2{
+    font-size: 58px;
+    font-weight: 600;
+}
+
+.hero p{
+    font-size: 30px;
+    margin-top: 10px;
+    font-weight: 400;
+}
+
+.hero button{   
+    padding:10px 25px;
+    border-radius: 20px;
+    border: 1px solid blue;
+    margin: 10px;
+    margin-top: 30px;
+    background: none;
+    font-size: 18px;
+    color: blue;
+}
+
+.hero button:hover{
+    background: blue;
+    color: #fff;
+}
+
+.ipad-air {
+    position: relative;
+}
+
+
+.iphone-16 button{
+    background: none;
+    border: 1px solid white;
+    padding: 10px 25px;
+    color: white;
+    border-radius: 20px;
+}
+
+.iphone-16 button:hover{
+    background: white;
+    color: blue;
+}
+
+.iphone-16-pro button{
+    background: none;
+    border: 1px solid white;
+    padding: 10px 25px;
+    color: white;
+}
+
+.iphone-16-pro button:hover{
+    background: white;
+    color: blue;
+}
